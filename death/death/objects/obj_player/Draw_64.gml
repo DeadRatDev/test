@@ -1,13 +1,3 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite_Transformed
-/// @DnDVersion : 1
-/// @DnDHash : 1AE56D3F
-/// @DnDArgument : "xscale" ".9"
-/// @DnDArgument : "xscale_relative" "1"
-/// @DnDArgument : "yscale_relative" "1"
-/// @DnDArgument : "sprite" "spr_screen"
-/// @DnDSaveInfo : "sprite" "spr_screen"
-draw_sprite_ext(spr_screen, 0, 0, 0, image_xscale + .9, image_yscale + 1, 0, $FFFFFF & $ffffff, 1);
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 771489C7
