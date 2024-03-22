@@ -39,6 +39,7 @@
     {"name":"rm_win","order":4,"path":"rooms/rm_win/rm_win.yy",},
     {"name":"Room13","order":2,"path":"rooms/Room13/Room13.yy",},
     {"name":"Room14","order":3,"path":"rooms/Room14/Room14.yy",},
+    {"name":"sou_Jungle_Groove","order":7,"path":"sounds/sou_Jungle_Groove/sou_Jungle_Groove.yy",},
     {"name":"sou_die","order":1,"path":"sounds/sou_die/sou_die.yy",},
     {"name":"sou_game","order":3,"path":"sounds/sou_game/sou_game.yy",},
     {"name":"sou_hp","order":2,"path":"sounds/sou_hp/sou_hp.yy",},

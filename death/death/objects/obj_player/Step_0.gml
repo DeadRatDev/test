@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+/// @DnDVersion : 1
+/// @DnDHash : 474562FA
+/// @DnDArgument : "angle" "15"
+/// @DnDArgument : "angle_relative" "1"
+image_angle += 15;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 08737928

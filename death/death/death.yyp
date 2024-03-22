@@ -74,6 +74,7 @@
     {"id":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"id":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
     {"id":{"name":"calc_move","path":"scripts/calc_move/calc_move.yy",},},
+    {"id":{"name":"sou_Jungle_Groove","path":"sounds/sou_Jungle_Groove/sou_Jungle_Groove.yy",},},
     {"id":{"name":"sou_clock","path":"sounds/sou_clock/sou_clock.yy",},},
     {"id":{"name":"sou_die","path":"sounds/sou_die/sou_die.yy",},},
     {"id":{"name":"sou_game","path":"sounds/sou_game/sou_game.yy",},},
