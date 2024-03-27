@@ -35,6 +35,8 @@
   "name":"Baby Vs Bomb",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_babby","path":"sprites/spr_babby/spr_babby.yy",},},
+    {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
