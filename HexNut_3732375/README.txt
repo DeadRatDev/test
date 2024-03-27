@@ -1,1 +1,0 @@
-HexNut by jkohli1701 on Thingiverse: https://www.thingiverse.com/thing:3732375
